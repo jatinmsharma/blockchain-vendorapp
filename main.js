@@ -7,7 +7,7 @@
 /*! exports provided: serverip, default */
 /***/ (function(module) {
 
-module.exports = {"serverip":"http://137.116.113.220:3001"};
+module.exports = {"serverip":"http://164.52.197.194:3001"};
 
 /***/ }),
 
